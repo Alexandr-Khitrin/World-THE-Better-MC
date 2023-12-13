@@ -1,0 +1,23 @@
+{
+	version: 1
+	uuid: "8c3a0281ec7a4d08937eacd634e8dd7c"
+	name: "Korner_"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: {
+		44740305C2A8DC52: 1
+	}
+	started: {
+		0000000000000001: 1702063716856L
+		6A12B1FE7B703F9D: 1702063716856L
+		1D4E5CDD59FFB7A0: 1702063716856L
+		44740305C2A8DC52: 1702063716856L
+	}
+	completed: {
+		6A12B1FE7B703F9D: 1702063716856L
+		44740305C2A8DC52: 1702063716856L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
